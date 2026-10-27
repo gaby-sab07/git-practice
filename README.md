@@ -6,3 +6,5 @@ Practice using GitHub in class on 10/27
 
 ## Major
 Add your major and expected graduation year
+
+## This is a change I am making locally
